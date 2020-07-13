@@ -1,0 +1,31 @@
+.textview{
+            width: 217px ;
+            margin: 5px;
+            font-size: 25px;
+            padding: 5px;
+            color: #5252af;
+		}
+		.button{
+			height: 50px;
+			width: 50px;
+			font-size: 25px;
+			margin: 3px;
+
+		}
+		html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background:linear-gradient(to right, rgb(237, 197, 230), rgb(0, 191, 255)) no-repeat center center fixed;
+}
+.container{
+	background-color: #5252af;
+}
